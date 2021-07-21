@@ -1,1 +1,1 @@
-Helper routines and support code for building LensKit routines.
+Helper routines and support code for building LensKit packages.
